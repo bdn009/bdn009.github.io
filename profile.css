@@ -1,0 +1,45 @@
+header {background: #4444;}
+.container {width: 900px;margin: auto;overflow:hidden;}
+.protfolio-title {text-transform: uppercase;padding: 30px 0px;font-weight: 500;font-size: 20px;float: left;margin-right: 480px;font-family: cursive;}
+.menu li {float: left;list-style: none;padding: 40px 10px;}
+.protfolio-img img {width: 200px;float: left;margin: 0px 250px;}
+.profile-decs {float: left;width: 560px;padding-left: 15px;font-family: cursive;}
+.protfolio {overflow: hidden;}
+.profile-decs h6 {font-size: 20px;padding-top: 30px;}
+.profile-decs h3 {width: 320px;font-size: 30px;margin-top: -17px;}
+button.myworkbutton {padding: 10px 30px;border-radius: 20px;background: blue;text-decoration: none;margin: 70px 62px;border: 0px;}
+button.myworkbutton a {text-decoration: none;color: white;}
+li.hire-me {border: 1px solid black;padding: 10px 28px;margin-top: 29px;border-radius: 30px;border-color: blue;}
+li.hire-me a{color: blue;text-decoration: none;}
+.ServiceTitle {margin: auto;text-align: center;padding: 50px;font-size: 20px;font-family: cursive;letter-spacing: 5px;}
+.SBoxWrapper {overflow: hidden;}
+.SBox {width: 250px;text-align: center;float: left;padding: 0px 25px;}
+.SBoxIcon {font-size: 30px;padding: 15px;text-decoration: none;}
+.SBoxIcon a {color: blue;}
+.SBoxTitle {text-transform: uppercase;font-family: cursive;letter-spacing: 2px;margin-top: 10px;}
+.SBoxDecs {padding: 30px 0px;line-height: 25px;text-transform: capitalize;font-family: cursive;font-size: 12px;}
+.MyWorkTitle {font-size: 20px;font-family: cursive;letter-spacing: 3;text-align: center;padding: 30px;}
+section.MyWork {background: #cdcdcd;}
+.MyWorkWrapper {overflow: hidden;margin-bottom: 35px;}
+.WorkBoxPicture img {width: 100%;height: 170px;}
+.WorkBox {width: 250px;margin-top: 15px;border: 1px solid #a9a4a49c;box-shadow: 0px 0px 15px -2px;float: left;margin: 24px;background: white;}
+h4.WBoxTitle {font-size: 20px;font-family: cursive;font-weight: bold;width: 200px;}
+p.WBoxDecs {font-size: 13px;font-family: cursive;margin-top: -10px;width: 220px;}
+.WorkBoxDecs {margin-left: 20px;}
+a.seemore {font-size: 12px;text-transform: uppercase;font-family: cursive;text-decoration: none;color: #2d2b2b;}
+a.seemore i {margin-left: 5px;margin-bottom: 20px;}
+section.MoreAboutMe {background: black;height: 100px;}
+.moreaboutme {color: white;font-size: 20px;text-align: center;padding-top: 13px;font-family: cursive;}
+a.MoreAboutMeButton {border: 1px solid black; margin-left: 20px; padding: 7px 17px;border-radius: 40px;text-decoration: none;color: black;background: #cdcdcd;font-size: 15px;}
+footer.footer {background: #1b1919;}
+.Company {width: 250;text-align: center;line-height: 1.4;color: white;float: left;margin-right: 72px;}
+.contactmeWrapper {overflow: hidden;padding: 60px 0px;}
+.contactme {width: 250px;float: left;text-align: center;color: white;margin-right: 72px;}
+.social {overflow: hidden;margin-bottom: 12px;}
+.social ul {list-style: none;}
+li.facebook {float: left;padding: 5px 15px;}
+li.twitter {float: left;padding: 5px 15px;}
+li.instgram {float: left;padding: 5px 15px;}
+li.googleplus {float: left;padding: 5px 15px;}
+.ADDRESS {width: 250px;text-align: center;line-height: 1.4;color: white;float: left;}
+.copyright {text-align: center;color: white;margin-bottom: 20px;}
